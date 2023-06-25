@@ -2,5 +2,9 @@
   "hosted-zone:account=346733622331:domainName=gollucci.com:region=us-east-1": {
     "Id": "/hostedzone/Z0112176FVC0Y83D0WHC",
     "Name": "gollucci.com."
+  },
+  "hosted-zone:account=346733622331:domainName=p6m7g8.com:region=us-east-1": {
+    "Id": "/hostedzone/Z24WQH45EYOKGS",
+    "Name": "p6m7g8.com."
   }
 }

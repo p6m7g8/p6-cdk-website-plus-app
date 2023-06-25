@@ -116,11 +116,9 @@ new MyStack(app, "p6-website-gollucci-com", {
   verifyEmail: "pgollucci@p6m7g8.com",
   domainName: "gollucci.com",
 });
-/*
-new MyStack(app, "p6-website-continuouslearning-io", {
+new MyStack(app, "p6-website-p6m7g8-com", {
   env: theEnv,
   verifyEmail: "pgollucci@p6m7g8.com",
-  domainName: "continuouslearning.io",
+  domainName: "p6m7g8.com",
 });
-*/
 app.synth();
